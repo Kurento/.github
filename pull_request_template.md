@@ -46,6 +46,6 @@ Put an 'x' in all the boxes that apply:
 Go over all the following points, and put an 'x' in all the boxes that apply.
 If you're unsure about any of these, don't hesitate to ask. We're here to help!
 -->
-- [ ] I have read the Contribution Guidelines <!-- https://github.com/Kurento/.github/blob/master/CONTRIBUTING.md -->
+- [ ] I have read the [Contribution Guidelines](https://github.com/Kurento/.github/blob/master/CONTRIBUTING.md)
 - [ ] I have added an explanation of what the changes do and why they should be included
 - [ ] I have written new tests for the changes, as applicable, and have successfully run them locally
